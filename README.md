@@ -2,11 +2,11 @@
 
 🎓 Computer Science grad | 💼 Software Engineer | 🚀 Innovator
 
-📍 Noida, India | 📧 dpak.m932@gmail.com | 🔗 [GitHub](https://github.com/dpak-maurya) | 🔗 [LinkedIn](https://www.linkedin.com/in/dpakm) | 🔗 [Upwork](https://www.upwork.com/freelancers/~018cc7b128932873a2) | 🔗 [Resume](https://docs.google.com/document/d/1dREAdlG_zFJt_fZ_kHyl44u22M9PEI4FFZKYqdzXQ_8/edit?usp=sharing)
+📍 Noida, India | 📧 dpak.m932@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dpakm)
 
 
 ## About Me
-🔥 Passionate coder with 3+ years experience | 💡 Love building cool stuff | 🌟 Strong skills in ReactJS, Next.js, Node.js, .NET Core and Spring Boot
+🔥 Passionate coder with 3+ years experience | 💡 Love building cool stuff | 🌟 Strong skills in .NET Core, NodeJs and ReactJs
 
 ## Skills
 👨‍💻 Languages: Python, JavaScript, C++, Java, C#, HTML, CSS | 🛠️ Frameworks: React, Next.js, Node.js | 🛢️ Databases: Mircosoft SQL Server, MySQL, MongoDB | ⚙️ Tools: Git, Docker, Jira
@@ -17,10 +17,10 @@
 ## Projects
 
 ### ACB Rugs Portfolio Website 🎨
-- Visually appealing portfolio | [Live](https://acbrugs.com)
+- Visually appealing portfolio 
 
 ### ACBRugs API 🚀
-Node project for ACBRugs API | [GitHub](https://github.com/acbrugs/acbrugs-api) | [Live](https://api.acbrugs.com)
+Node project for ACBRugs API | [GitHub](https://github.com/acbrugs/acbrugs-api)
 
 ### Delphi Script Edu Website 📚
 - Modern educational site UI | [Live](https://delphiscript.com/)
@@ -53,9 +53,6 @@ Full-stack campground sharing app | [GitHub](https://github.com/dpak-maurya/yelp
 
 ## Education
 🎓 BTech in Computer Science | 📅 Aug '17 - May '21 | 🏫 NIT Warangal, India
-
-## Learning & Certifications
-📚 Microservices with Node & React (Udemy) | 📚 React - The Complete Guide (Udemy) | 📚 AI: Knowledge Representation and Reasoning (NPTEL)
 
 ## Achievements
 💡 Idea Accepted for E-voting using Azure Blockchain | 🏆 Codechef Rating: 1708 | 🥇 All India Rank 4689 in JEE (Main)
