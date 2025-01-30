@@ -2,14 +2,14 @@
 
 🎓 Computer Science grad | 💼 Software Engineer | 🚀 Innovator
 
-📍 Noida, India | 📧 dpak.m932@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dpakm)
+📍 Hyderabad, India | 📧 dpak.m932@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/dpakm)
 
 
 ## About Me
-🔥 Passionate coder with 3+ years experience | 💡 Love building cool stuff | 🌟 Strong skills in .NET Core, NodeJs and ReactJs
+🔥 Passionate coder with 3+ years experience | 💡 Love building cool stuff | 🌟 Strong skills in SpringBoot, .NET Core and NodeJs
 
 ## Skills
-👨‍💻 Languages: Python, JavaScript, C++, Java, C#, HTML, CSS | 🛠️ Frameworks: React, Next.js, Node.js | 🛢️ Databases: Mircosoft SQL Server, MySQL, MongoDB | ⚙️ Tools: Git, Docker, Jira
+👨‍💻 Languages: JavaScript, C++, Java, C#, HTML, CSS | 🛠️ Frameworks: Spring Boot,.NET Core, Node.js | 🛢️ Databases: SQL Server, MySQL, MongoDB | ⚙️ Tools: Git, Docker, Jira
 
 ## Experience
 🚀 Led dynamic web app projects | 🎨 Crafted engaging UIs | 🛳️ Optimized for efficient deployments
@@ -23,7 +23,7 @@
 Node project for ACBRugs API | [GitHub](https://github.com/acbrugs/acbrugs-api)
 
 ### Delphi Script Edu Website 📚
-- Modern educational site UI | [Live](https://delphiscript.com/)
+- Modern educational site UI | [Live](https://delphi-script.netlify.app/)
 
 ### CogxIMIS App 🏥
 - Configured healthcare management system 
